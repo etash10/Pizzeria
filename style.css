@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+}
+
+#submit {
+    margin-top: 20px; margin-bottom: 20px;
+}
+#sorting {
+    margin-top: 20px; margin-bottom: 20px;
+}
+
+#displaynamewithcomma { border: 1px solid green; padding: 10px; background-color: greenyellow; border-radius: 10px; width: 50%; } 
+
+#displaynamewithoutcomma { border: 1px solid red; padding: 10px; background-color: lightcoral; border-radius: 10px; width: 50%; }
+
